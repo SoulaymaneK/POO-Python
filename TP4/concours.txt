@@ -1,0 +1,5 @@
+1234;kebli;soulaymane;18;admis;
+5678;tahiri;mohamed;18;admis;
+9023;marc;jean;33;admis;
+3456;lc;melenchon;45;ajourne;
+1834;lepen;marine;56;refuse;
